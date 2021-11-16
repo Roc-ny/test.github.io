@@ -3182,6 +3182,7 @@
 }
 
 .ly-txt90 {
+	text-indent: 2em;
 	font-family: Microsoft YaHei;
 	font-size: 14px;
 	font-color: #000;
@@ -3200,6 +3201,7 @@
 	transition-delay: 4.5s;
 }
 .ly-txt91 {
+	text-indent: 2em;
 	font-family: Microsoft YaHei;
 	font-size: 14px;
 	font-color: #000;
